@@ -35,4 +35,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: LEANDRO0212/fullcycl_ci:latest
+          tags: LeandroSSantos0212/fullcycl_ci:latest
